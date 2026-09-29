@@ -1,0 +1,291 @@
+# Claude Code Skills Analysis - Global Environment
+Generated: 2026-09-29
+User: mertgoevse-wq
+Repo: https://github.com/mertgoevse-wq/skill-repo (private)
+
+---
+
+## DESIGN & UX SKILLS (45+)
+
+| Skill | Purpose | Project Fit |
+|-------|---------|-------------|
+| accessibility | WCAG compliance, screen reader optimization, a11y testing | Essential for inclusive UI projects |
+| adapt / adaptive | Responsive/adaptive design patterns | Cross-device layouts |
+| animate | Motion design, transitions, micro-interactions | Polished UI feel |
+| brandkit | Design token systems, brand consistency | Design system foundations |
+| camerax | Camera integration patterns | Mobile media apps |
+| clarify | UX writing, content clarity | Content-heavy interfaces |
+| colorize | Color systems, theming, accessibility | Design tokens |
+| craft | Component craftsmanship, detail polish | High-quality UI |
+| critique | Design review frameworks | Design quality gates |
+| delight | Micro-interactions, personality | User retention |
+| design-analysis | Heuristic evaluation, usability audit | Pre-launch QA |
+| design-library | Component library management | Reusable UI systems |
+| design-review | Structured design critique process | Team alignment |
+| design-system | Token architecture, theming, component libraries | Scalable design ops |
+| dieter-rams-principles | Timeless design principles | Decision framework |
+| distill | Information architecture simplification | Complex dashboards |
+| double-diamond | Discovery/definition/delivery process | Product design workflow |
+| edge-to-edge | Immersive full-screen layouts | Modern mobile apps |
+| empathy-mapping | User research synthesis | User-centered design |
+| feature-prioritization | RICE, ICE, Kano frameworks | Roadmap planning |
+| general-design-review | Holistic design quality check | Pre-handoff review |
+| high-end-visual-design | Premium aesthetic patterns | Brand-critical surfaces |
+| image-to-code | Design-to-code conversion (Figma→React) | Designer-dev handoff |
+| journey-mapping | User flow visualization | Service design |
+| layout | Grid, flex, container patterns | Responsive foundations |
+| low-effort-high-reward | Quick wins, 80/20 design improvements | Resource-constrained projects |
+| map-systems | System mapping, service blueprints | Complex product architecture |
+| minimalist-ui | Reductionist design patterns | Clean, focused interfaces |
+| mobile-android-design / mobile-ios-design | Platform-specific guidelines | Native feel |
+| mobile-app-design | Cross-platform mobile patterns | React Native/Flutter |
+| natprd | Product requirement docs | Spec-driven development |
+| navigation-3 / navigation-event | Navigation patterns, deep linking | Complex app flows |
+| optimize | Performance-oriented design | Fast UX |
+| overdrive | Advanced animation techniques | Delight moments |
+| persuasive-ux | Behavioral design, conversion | Growth-focused products |
+| polish | Final 10% quality elevation | Ship-ready UI |
+| project-stage-detect | Context-aware process adaptation | Adaptive workflows |
+| quieter | Cognitive load reduction | Focused experiences |
+| redesign-existing-projects | Legacy UI modernization | Tech debt projects |
+| responsive-design | Fluid layouts, breakpoints | Multi-device |
+| stitch-design-taste | Design taste calibration | Team alignment |
+| styles | Design token management | Theming systems |
+| typeset | Typography systems | Readability |
+| ux-heuristics-review | Nielsen/Norman evaluation | Usability audit |
+| ux-personas | Persona creation, validation | User modeling |
+| ux-research-methods | Research technique selection | Evidence-based design |
+| ux-storyboard | Narrative flow visualization | Feature storytelling |
+| visual-design-foundations | Core visual principles | Design fundamentals |
+| web-component-design | Web Components architecture | Framework-agnostic UI |
+| web-design-guidelines | Web-specific best practices | Browser-based products |
+| writing-guidelines | UX writing standards | Content consistency |
+
+---
+
+## SUPERPOWERS (Process & Meta-Skills) (18)
+
+| Skill | Purpose | Project Fit |
+|-------|---------|-------------|
+| brainstorming | Structured ideation, divergence/convergence | Project kickoff, feature exploration |
+| diagnosing-superpowers | Skill health check, gap analysis | Skill portfolio audit |
+| dispatching-parallel-agents | Multi-agent orchestration | Complex multi-stream tasks |
+| executing-plans | Plan-to-action translation | Implementation discipline |
+| finishing-a-development-branch | Branch completion checklist | Release readiness |
+| receiving-code-review | Feedback incorporation patterns | Collaborative quality |
+| requesting-code-review | Effective PR authoring | Review velocity |
+| subagent-driven-development | Agent delegation patterns | Scaling cognition |
+| systematic-debugging | Hypothesis-driven debugging | Production incidents |
+| test-driven-development | Red-green-refactor discipline | Quality-first workflow |
+| using-git-worktrees | Parallel worktree workflows | Concurrent features |
+| using-superpowers | Skill discovery & invocation protocol | **Always first** |
+| verification-before-completion | Definition of done enforcement | Release confidence |
+| writing-plans | Implementation planning | Technical design docs |
+| writing-skills | Skill authoring best practices | Extending toolkit |
+
+---
+
+## CODE QUALITY & REFACTORING (8)
+
+| Skill | Purpose | Project Fit |
+|-------|---------|-------------|
+| code-review:code-review | AI-powered correctness + cleanup review | Pre-merge gate |
+| pr-review-toolkit:review-pr | PR-focused review workflow | GitHub integration |
+| code-refactoring:context-restore | Context recovery for refactoring | Large refactors |
+| code-refactoring:refactor-clean | Clean code transformation | Technical debt |
+| code-refactoring:tech-debt | Debt identification & prioritization | Maintenance planning |
+| context-management:context-restore | Session context recovery | Long-running work |
+| context-management:context-save | Context checkpointing | Handoffs |
+| simplify | Code simplification (reuse/efficiency) | Post-implementation cleanup |
+
+---
+
+## FRONTEND & MOBILE DEVELOPMENT (12)
+
+| Skill | Purpose | Project Fit |
+|-------|---------|-------------|
+| frontend-design:frontend-design | React/Next.js component patterns | Modern web apps |
+| frontend-mobile-development:component-scaffold | Component boilerplate generation | Rapid UI dev |
+| frontend-mobile-development:nextjs-app-router-patterns | Next.js 13+ App Router patterns | Full-stack React |
+| frontend-mobile-development:react-native-architecture | RN project structure | Cross-platform mobile |
+| frontend-mobile-development:react-state-management | State patterns (Zustand, Jotai, etc.) | Complex client state |
+| frontend-mobile-development:tailwind-design-system | Tailwind + design tokens | Utility-first styling |
+| frontend-mobile-security:xss-scan | XSS vulnerability detection | Security hardening |
+| ui-design:create-component | Component design → implementation | Design system components |
+| ui-design:design-system-setup | Design system initialization | New project setup |
+| ui-design:interaction-design | Interaction patterns, states | Polished UX |
+| ui-design:react-native-design | RN-specific design patterns | Mobile-first |
+| multi-platform-apps:multi-platform | Cross-platform architecture | iOS/Android/Web |
+
+---
+
+## TESTING & TDD (6)
+
+| Skill | Purpose | Project Fit |
+|-------|---------|-------------|
+| tdd-workflows:tdd-cycle | Full TDD loop orchestration | Quality discipline |
+| tdd-workflows:tdd-red | Failing test creation | Test-first |
+| tdd-workflows:tdd-green | Minimal implementation | Green phase |
+| tdd-workflows:tdd-refactor | Refactor with safety net | Clean code |
+| unit-testing:test-generate | Test generation from code | Coverage boost |
+| shell-scripting:bats-testing-patterns | Bash test patterns | CLI tool testing |
+
+---
+
+## FRAMEWORK MIGRATION & MODERNIZATION (7)
+
+| Skill | Purpose | Project Fit |
+|-------|---------|-------------|
+| framework-migration:code-migrate | Automated code migration | Version upgrades |
+| framework-migration:deps-upgrade | Dependency upgrade strategy | Security/maintenance |
+| framework-migration:legacy-modernize | Legacy → modern patterns | Tech debt reduction |
+| framework-migration:angular-migration | Angular version upgrades | Enterprise Angular |
+| framework-migration:database-migration | Schema migration patterns | Data layer evolution |
+| framework-migration:dependency-upgrade | Dep management automation | Supply chain security |
+| framework-migration:react-modernization | React class→hooks, legacy→modern | React codebase health |
+
+---
+
+## DOCUMENTATION GENERATION (6)
+
+| Skill | Purpose | Project Fit |
+|-------|---------|-------------|
+| documentation-generation:doc-generate | Auto-docs from code | Living documentation |
+| documentation-generation:architecture-decision-records | ADR creation/maintenance | Architectural history |
+| documentation-generation:changelog-automation | Changelog from commits | Release notes |
+| documentation-generation:openapi-spec-generation | OpenAPI 3.1 from code | API contracts |
+| documentation-generation:reference-builder | Exhaustive technical references | API/platform docs |
+| documentation-generation:tutorial-engineer | Step-by-step tutorials | Onboarding/education |
+
+---
+
+## FULL-STACK ORCHESTRATION (3)
+
+| Skill | Purpose | Project Fit |
+|-------|---------|-------------|
+| full-stack-orchestration:full-stack-feature | End-to-end feature delivery | Vertical slices |
+| api-testing-observability:api-mock | API mocking for testing | Contract testing |
+| debugging-toolkit:smart-debug | Intelligent debugging assistance | Complex bug hunting |
+
+---
+
+## GIT & PR WORKFLOWS (4)
+
+| Skill | Purpose | Project Fit |
+|-------|---------|-------------|
+| git-pr-workflows:git-workflow | Branching, commits, history hygiene | Team git standards |
+| git-pr-workflows:onboard | Repo onboarding automation | New contributor DX |
+| git-pr-workflows:pr-enhance | PR description, checks, automation | Review quality |
+| vercel-cli-with-tokens | Vercel deployment with auth | Next.js deployments |
+
+---
+
+## CONTEXT MODE (Knowledge Management) (8)
+
+| Skill | Purpose | Project Fit |
+|-------|---------|-------------|
+| context-mode:context-mode | Context-mode protocol | Long-term memory |
+| context-mode:ctx-doctor | Installation diagnostics | Setup validation |
+| context-mode:ctx-index | Content indexing for search | Knowledge base |
+| context-mode:ctx-insight | Analytics dashboard | Usage insights |
+| context-mode:ctx-purge | Knowledge base reset | Clean slate |
+| context-mode:ctx-search | Semantic search over indexed content | Research recall |
+| context-mode:ctx-stats | Context consumption metrics | Optimization |
+| context-mode:ctx-upgrade | Version upgrades | Maintenance |
+
+---
+
+## SPECIALIZED / NICHE SKILLS (20+)
+
+| Skill | Purpose | Project Fit |
+|-------|---------|-------------|
+| android-cli / android-intent-security / android-profiler | Android dev tooling | Native Android |
+| agp-9-upgrade | Android Gradle Plugin 9 migration | Android build |
+| ai-governors / ai-identifiers / ai-inputs / ai-trust-builders / ai-tuners / ai-wayfinders | AI agent orchestration patterns | Multi-agent systems |
+| artifact-design / artifact-diagramming | Artifact (HTML page) creation | Interactive docs |
+| bolder | Bold design decisions | Differentiation |
+| deploy-to-vercel / vercel-composition-patterns / vercel-optimize / vercel-react-best-practices / vercel-react-native-skills / vercel-react-view-transitions | Vercel ecosystem | Next.js on Vercel |
+| engage-sdk-integration | Google Engage SDK | Android engagement |
+| flylab-autonomous-orchestrator | Autonomous agent workflows | Agent swarms |
+| higgsfield-* (7 skills) | AI video/generation tools | Creative AI apps |
+| karpathy-* (5 skills) | Andrej Karpathy's patterns | AI/ML engineering |
+| leanback-to-compose-tv-migration | Android TV migration | TV apps |
+| media3-cast-integration | Chromecast/Media3 | Media apps |
+| migrate-xml-views-to-jetpack-compose | Android XML→Compose | Modern Android UI |
+| ml-kit-genai-prompt-api | On-device GenAI | Mobile AI |
+| navigation-3 / navigation-event | Jetpack Navigation 3 | Android navigation |
+| play-billing-library-version-upgrade | Play Billing updates | Android monetization |
+| play-policy-insights | Play Store policy compliance | App distribution |
+| planning-with-files* (7 locales) | File-based planning | Spec-driven dev |
+| r8-analyzer | R8/ProGuard analysis | Android optimization |
+| restore-credentials | Credential recovery | DevOps |
+| testing-setup | Test infrastructure | Quality foundations |
+| update-config | settings.json automation | Harness config |
+| keybindings-help | Keyboard shortcut customization | DX |
+| claude-api | Anthropic API reference | LLM integration |
+| workflow-authoring | Workflow script authoring | Multi-agent orchestration |
+| run | App launch/verification | Change validation |
+| init | Project initialization | New project bootstrap |
+| security-review | Security audit patterns | Secure development |
+| file-conversion:file-conversion | Format conversion | Data interchange |
+| shell-scripting:bash-defensive-patterns / shellcheck-configuration | Robust shell scripting | Automation scripts |
+| fewer-permission-prompts | Permission optimization | DX improvement |
+| loop | Recurring task automation | Monitoring/polling |
+| dataviz | Data visualization best practices | Analytics/dashboards |
+
+---
+
+## MARKETPLACE & PLUGIN INTEGRATIONS
+
+| Integration | Capabilities | Project Fit |
+|-------------|--------------|-------------|
+| context7 (MCP) | Live library docs, code examples | Always-current API reference |
+| github (MCP) | Full GitHub API (issues, PRs, repos, search) | GitOps, automation |
+| context-mode (MCP) | Persistent knowledge base, search, indexing | Long-term context |
+
+---
+
+## SUMMARY: SKILL PORTFOLIO ALIGNMENT
+
+**Core Daily Drivers** (use every session):
+- `using-superpowers` → Skill invocation protocol
+- `brainstorming` → Feature ideation
+- `systematic-debugging` → Issue resolution
+- `code-review:code-review` / `simplify` → Quality gates
+- `context-mode:ctx-search` → Knowledge recall
+
+**Project-Type Specialists**:
+- **Web/React**: `frontend-design`, `vercel-*`, `nextjs-app-router-patterns`, `tailwind-design-system`
+- **Mobile**: `mobile-android-design`, `mobile-ios-design`, `react-native-architecture`, `android-*`
+- **Design Systems**: `design-system`, `brandkit`, `styles`, `ui-design:design-system-setup`
+- **API/Backend**: `openapi-spec-generation`, `api-mock`, `full-stack-feature`, `multi-platform-apps:backend-architect`
+- **Documentation**: `doc-generate`, `architecture-decision-records`, `tutorial-engineer`
+- **Testing**: `tdd-cycle`, `test-generate`, `pr-test-analyzer`
+- **Migration**: `legacy-modernize`, `react-modernization`, `angular-migration`, `deps-upgrade`
+- **Security**: `security-review`, `xss-scan`, `frontend-security-coder`
+
+**Meta/Orchestration**:
+- `dispatching-parallel-agents`, `workflow-authoring`, `subagent-driven-development` → Scale complex work
+- `context-mode:*` → Persistent cross-session memory
+- `git-pr-workflows:*` → Team collaboration standards
+
+---
+
+## RECOMMENDED SKILL STACK FOR YOUR PROJECTS
+
+Based on a modern full-stack TypeScript/React/Node stack with mobile aspirations:
+
+**Tier 1 (Always)**:
+`using-superpowers`, `brainstorming`, `systematic-debugging`, `code-review:code-review`, `simplify`, `context-mode:ctx-search`
+
+**Tier 2 (Web App)**:
+`frontend-design`, `vercel-react-best-practices`, `nextjs-app-router-patterns`, `tailwind-design-system`, `design-system`, `openapi-spec-generation`
+
+**Tier 3 (Mobile)**:
+`react-native-architecture`, `mobile-android-design`, `mobile-ios-design`, `android-cli`
+
+**Tier 4 (Quality)**:
+`tdd-cycle`, `test-generate`, `security-review`, `accessibility`, `ux-heuristics-review`
+
+**Tier 5 (Process)**:
+`git-pr-workflows:git-workflow`, `writing-plans`, `verification-before-completion`, `dispatching-parallel-agents`
